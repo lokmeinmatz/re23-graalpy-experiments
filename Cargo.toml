@@ -1,0 +1,10 @@
+[workspace]
+name = "experiments"
+version = "0.1.0"
+edition = "2021"
+
+members = [
+  "lib1",
+  "lib2",
+  "exec"
+]
